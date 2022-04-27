@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/exams/static/css/main.10e2c85e.css",
+    "main.js": "/exams/static/js/main.cbd9ee84.js",
+    "static/js/787.28cb0dcd.chunk.js": "/exams/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/exams/index.html",
+    "main.10e2c85e.css.map": "/exams/static/css/main.10e2c85e.css.map",
+    "main.cbd9ee84.js.map": "/exams/static/js/main.cbd9ee84.js.map",
+    "787.28cb0dcd.chunk.js.map": "/exams/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10e2c85e.css",
+    "static/js/main.cbd9ee84.js"
+  ]
+}
