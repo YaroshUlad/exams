@@ -1,0 +1,59 @@
+.wrapper {
+    border: 2px solid black;
+    width: max-content;
+    margin: auto;
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #052d2d;
+}
+
+.countWrapper {
+    border: 2px solid black;
+    padding: 20px 20px 0px 20px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    background-color: #074848;
+}
+
+.screen {
+    background-color: aqua;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 50px;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 21px;
+}
+
+.errorMessage {
+    color: red;
+}
+
+.buttonWrapper {
+    border: 2px solid black;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #074848;
+}
+
+button {
+    background-color: aqua;
+    font-weight: bold;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+button:disabled {
+    background-color: #186b6b;
+    color: #ff9494;
+}
+
+.error {
+    color: red;
+    margin-bottom: 0px;
+}

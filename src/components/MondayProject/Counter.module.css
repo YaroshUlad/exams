@@ -1,0 +1,47 @@
+.wrapper {
+    margin: auto;
+    margin-top: 20px;
+    width: max-content;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 5px;
+    justify-content: center;
+    align-items: center;
+    background-color: #052d2d;
+}
+.counter {
+    border: 2px solid black;
+    padding: 10px;
+    text-align: center;
+    margin-bottom: 10px;
+    background-color: #074848;
+    font-weight: bold;
+    color: white;
+    border-radius: 5px;
+}
+.buttons {
+    border: 2px solid black;
+    padding: 10px;
+    background-color: #074848;
+    border-radius: 5px;
+
+
+}
+
+.buttons button {
+    margin: 5px;
+    border-radius: 5px;
+    background-color: #3c3caf;
+    font-weight: bold;
+    color: white;
+    padding: 5px;
+}
+
+.buttons button.disabled {
+    margin: 5px;
+    border-radius: 5px;
+    background-color: rgba(255, 0, 0, 0.8);
+    font-weight: bold;
+    color: white;
+    padding: 5px;
+}
